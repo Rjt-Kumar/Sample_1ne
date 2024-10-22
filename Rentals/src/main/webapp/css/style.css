@@ -14,7 +14,7 @@
 
 body{
     background-image: url('assests/background.jpg');
-    background-size: cover;
+    background-size: 170vh no-repeat;
     opacity: 0.9;
 }
 
