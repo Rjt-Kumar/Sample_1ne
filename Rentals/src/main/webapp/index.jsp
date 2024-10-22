@@ -14,8 +14,7 @@
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident
         saepe molestias recusandae possimus sed iure, delectus facere libero
-        rerum! Sed ex nesciunt alias quae eos obcaecati voluptatibus facilis
-        maiores fugiat.
+        rerum! 
       </p>
     </div>
     <div class="login-box">
